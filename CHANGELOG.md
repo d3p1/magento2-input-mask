@@ -1,3 +1,10 @@
+# 1.0.0 (2026-05-26)
+
+
+### Features
+
+* init [[#1](https://github.com/d3p1/magento2-input-mask/issues/1)] ([ae070be](https://github.com/d3p1/magento2-input-mask/commit/ae070be852b48a7eeb4523a72dfb841e307066a2))
+
 # 1.0.0 (2026-04-22)
 
 

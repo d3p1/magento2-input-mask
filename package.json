@@ -1,6 +1,6 @@
 {
     "name": "@d3p1/module-input-mask",
-    "version": "0.0.0",
+    "version": "1.0.0",
     "description": "Input mask",
     "private": true,
     "scripts": {
