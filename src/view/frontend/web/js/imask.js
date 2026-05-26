@@ -32,7 +32,7 @@ define(['jquery', 'D3p1_InputMask/js/lib/imask'], function ($) {
          * @private
          */
         _create: function () {
-            var self   = this
+            var self = this
             var config = {
                 mask: self.options.mask,
                 placeholderChar: self.options.placeholder,
@@ -43,7 +43,7 @@ define(['jquery', 'D3p1_InputMask/js/lib/imask'], function ($) {
                 config = self.options.customConfig
             }
 
-            self.inputMask    = IMask(self.element[0], config)
+            self.inputMask = IMask(self.element[0], config)
             self.defaultValue = self.element.val()
 
             this.element.addClass('imask')
